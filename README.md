@@ -12,3 +12,9 @@ A simple platformer built with Phaser.
 [ ] Add ability to set player name
 [ ] Save player name and check for duplicates
 [ ] Show leaderboard on game over
+
+## Other ideas
+[ ] Enable scrolling for a larger game area
+[ ] Implement levels with different colours, baddies, etc
+[ ] Add different kind of pickups, e.g. bigger stars, gems
+[ ] Health bar
